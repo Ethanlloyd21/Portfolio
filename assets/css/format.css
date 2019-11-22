@@ -56,14 +56,6 @@ article {
   border-radius: 5px;
 }
 
-/*
-article:last-child {
-    margin-bottom: 0;
-}
-article h3 {
-    margin: 10px 0 25px 0;
-}*/
-
 article p {
   margin-top: 16px;
   line-height: 24px;
@@ -78,9 +70,7 @@ footer {
   bottom: 0;
   width: 100%;
   border-top: 8px solid #4aaaa5;
-    /* position: fixed;
-    z-index: 1; */
-  }
+}
   
   
 @media(max-width:960px) {
