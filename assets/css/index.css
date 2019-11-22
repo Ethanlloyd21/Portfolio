@@ -1,4 +1,4 @@
-main {
+  main {
     width: 960px;
     margin: 0 auto;
     padding: 30px 20px;
@@ -40,6 +40,12 @@ main {
   }
 
   article, #profile-image {
-      float: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /* This code is reserve for HW2
+    float: left;
+    */ 
   }
 
