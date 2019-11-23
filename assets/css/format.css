@@ -97,7 +97,8 @@ footer {
   border-top: 8px solid #4aaaa5;
 }
   
-  
+/*Reserve for HW2
+
 @media(max-width:960px) {
   header { padding: 30px 20px; }
   header h1 { margin-bottom: 20px; }
@@ -107,4 +108,5 @@ footer {
   article h3 { margin: 10px 0 20px 0; }
   article p { margin-top: 16px; line-height: 20px; }
 }
+*/
   
