@@ -8,3 +8,5 @@ No installation required. Just go to https://github.com/Ethanlloyd21/Portfolio
 # Usage
 
 This is a basic HTML, CSS and GIT homework Portfolio webiste.
+
+![](assets/images/about.png)
