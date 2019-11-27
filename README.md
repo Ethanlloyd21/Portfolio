@@ -7,8 +7,8 @@ No installation required. Just go to https://github.com/Ethanlloyd21/Portfolio
 
 # Usage
 
-This is a basic HTML, CSS and GIT homework Portfolio webiste.
-This is a simple webisite for basic HTML and CSS. 
+This is a basic HTML/CSS Portfolio webiste.
+
 
 ## index.hmtl 
 Information and photo image 
