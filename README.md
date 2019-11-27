@@ -8,19 +8,23 @@ No installation required. Just go to https://github.com/Ethanlloyd21/Portfolio
 # Usage
 
 This is a basic HTML, CSS and GIT homework Portfolio webiste.
+This is a simple webisite for basic HTML and CSS. 
 
 ![](assets/images/about.PNG)
 
-index.hmtl: Information and photo image 
+## index.hmtl 
+Information and photo image 
 -Write a paragraph or two about yourself.
 
 ![](assets/images/Portfolio.PNG)
 
-portfolio.html: contains your personal projects, group projects, github projects. etc.
+## portfolio.html 
+contains your personal projects, group projects, github projects. etc.
 
 ![](assets/images/contact.PNG)
 
-contact.html: how user can contact you.
+## contact.html 
+how user can contact you.
 
 
 # License
