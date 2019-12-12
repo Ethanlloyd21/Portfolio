@@ -1,5 +1,5 @@
 # Portfolio
-Unit 01 HTML, CSS, and Git Homework: Portfolio
+How to make a simple Portfolio using basic HTML, CSS, and Git.
 
 # Installation
 
