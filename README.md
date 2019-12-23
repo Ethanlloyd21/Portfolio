@@ -7,9 +7,9 @@ Build a professional portfolio site using HTML and CSS following a set of specif
 
 ## User Story
 
-AS A web developer
-I WANT a deployed portfolio
-SO THAT I can showcase my applications to potential employers and clients
+As a web developer
+You WANT a deployed portfolio
+SO THAT you can showcase your applications to potential employers and clients
 
 ## Business Context
 
