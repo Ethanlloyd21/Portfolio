@@ -27,3 +27,6 @@ A portfolio is often the first point of contact for employers looking to fill a 
 Copyright. All rights reserved
 
 Licensed under the [MIT](LICENSE.txt) License.
+
+## Author
+* Lloyd Marcelino, 2020
